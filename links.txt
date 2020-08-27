@@ -1,0 +1,7 @@
+Filters
+
+1. https://www.theobjects.com/dragonfly/dfhelp/30/Content/07_Image%20Processing/Edge%20Detection%20Filters.htm
+
+Shadow detection
+
+2. http://cs.haifa.ac.il/hagit/courses/seminars/shadowRemoval/Presentations/lecture10_files/Removing%20Shadows%20from%20Images.pdf
