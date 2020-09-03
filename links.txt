@@ -6,6 +6,17 @@ Shadow detection
 
 2. http://cs.haifa.ac.il/hagit/courses/seminars/shadowRemoval/Presentations/lecture10_files/Removing%20Shadows%20from%20Images.pdf
 
+https://archive.org/details/shadow_code_10.1109CVPR.2011.5995725
 3. single shadow removal using paired regions
+
+https://salman-h-khan.github.io/papers/TPAMI15.pdf
+
+https://www.researchgate.net/publication/50346386_SHADOW_DETECTION_AND_REMOVAL_IN_COLOUR_IMAGES_USING_MATLAB#:~:text=A%20shadow%20detection%20method%20is,...
+
+https://www.theobjects.com/dragonfly/dfhelp/30/Content/07_Image%20Processing/Edge%20Detection%20Filters.htm
+
+https://dhoiem.cs.illinois.edu/publications/cvpr11_shadow.pdf
+
+http://cs.haifa.ac.il/hagit/courses/seminars/shadowRemoval/Presentations/lecture10_files/Removing%20Shadows%20from%20Images.pdf
 
 https://salman-h-khan.github.io/papers/TPAMI15.pdf
